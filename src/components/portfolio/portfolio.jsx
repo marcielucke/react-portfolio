@@ -28,11 +28,11 @@ const Portfolio = () => {
 
                 <article className='portfolio_item'>
                     <div className="portfolio_item-image">
-                    <img src={require('../../assets/social-network-api.png')} alt="2"></img>
+                    <img src={require('../../assets/jobsight.png')} alt="2"></img>
                     </div>
-                    <h3> Social Network API</h3>
+                    <h3> Job Sight</h3>
                     <div className="portfolio_item-cta">
-                    <a href="https://github.com/marcielucke/socialnetwork-api" target="blank" className='btn'> Github</a>
+                    <a href="http://github.com/https://github.com/Nevin-Lewis/job_searcher " target="blank" className='btn'> Github</a>
                     </div>
                    
 
