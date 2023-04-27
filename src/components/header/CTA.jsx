@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../assets/Oracle Resume.pdf'
+import CV from '../../assets/marcieresume.pdf'
 import './header.css'
 
 
