@@ -14,6 +14,18 @@ const Portfolio = () => {
             </h2>
 
             <div className="container portfolio_container">
+
+            <article className='portfolio_item'>
+                    <div className="portfolio_item-image">
+                    <img src={require('../../assets/batonpass.png')} alt="6"></img>
+                    </div>
+                    <h3> Baton Pass</h3>
+                    <div className="portfolio_item-cta">
+                    <a href="https://github.com/marcielucke/batonpass" target="blank" className='btn'> Github</a>
+                    </div>
+                   
+
+                </article>
                 <article className='portfolio_item'>
                     <div className="portfolio_item-image">
                         <img src={require('../../assets/mylocalmusic.png')} alt="1"></img>
@@ -74,17 +86,7 @@ const Portfolio = () => {
 
                 </article>
 
-                <article className='portfolio_item'>
-                    <div className="portfolio_item-image">
-                    <img src={require('../../assets/munchr.png')} alt="6"></img>
-                    </div>
-                    <h3> Munchr: Food and Drink Recipes</h3>
-                    <div className="portfolio_item-cta">
-                    <a href="https://github.com/RyStreet/Munchr" target="blank" className='btn'> Github</a>
-                    </div>
-                   
-
-                </article>
+           
 
             </div>
 

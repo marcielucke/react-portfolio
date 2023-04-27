@@ -35,7 +35,11 @@ const About = () => {
 
                 </div>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab corrupti possimus amet placeat libero maxime laudantium ipsa molestiae! Corporis, corrupti. Veniam eius ratione quasi magnam, distinctio ullam harum provident laudantium.
+                    
+                    My name is Marcie Lucke, and I'm a Full Stack Web Developer. My passion for technology started when I dipped my toes in the world of coding through self teaching.
+                     From here I attended the Full Stack Coding Bootcamp at UT Austin in 2022, and have been refining my skills on both front and back end ever since. I love taking on any and all projects
+                     to provide both users and clients a seamless experience. My background in healthcare has provided me both the critical thinking and communication skills to create trusting relationships 
+                     with my teams! Please reach out, and feel free to check out some of my past projects below.
                 </p>
                 <a href='#contact'className='btn btn-primry'> Let's Talk! </a>
             </div>

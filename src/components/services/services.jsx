@@ -15,16 +15,16 @@ const Services = () => {
 
                     <ul className='service_list'>
                         <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p> User research and analysis</p>
                         </li>
                         <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p>Wireframing and prototyping</p>
                         </li>
                         <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p>Visual design</p>
                         </li>
                         <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p> Front-end development</p>
                         </li>
                     </ul>
                 </article>
@@ -36,16 +36,16 @@ const Services = () => {
 
                     <ul className='service_list'>
                         <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p> Front End Design</p>
                         </li>
                         <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p> Backend Database Building</p>
                         </li>
                         <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p> Web hosting and maintenance</p>
                         </li>
                         <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p> E-commerce development</p>
                         </li>
                     </ul>
                 </article>
@@ -57,17 +57,15 @@ const Services = () => {
 
                     <ul className='service_list'>
                         <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p> Education Blog Post Writing</p>
                         </li>
                         <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p> Educational Video production</p>
                         </li>
                         <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p> Content strategy and planning</p>
                         </li>
-                        <li> <AiOutlineCheck className='service_list-icon'/>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                        </li>
+                      
                     </ul>
                 </article>
                 </div> 

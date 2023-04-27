@@ -27,7 +27,10 @@ const Experience = () => {
                 <h4>React</h4>
                 </article>
                 <article className='experience_details'> <AiOutlineCheckCircle/>
-                <h4>BootStrap</h4>
+                <h4>Next.js</h4>
+                </article>
+                <article className='experience_details'> <AiOutlineCheckCircle/>
+                <h4>Tailwind.css</h4>
                 </article>
                 
                 </div>
@@ -48,6 +51,10 @@ const Experience = () => {
             <article className='experience_details'> <AiOutlineCheckCircle/>
             <h4>Node JS</h4>
             </article>
+            <article className='experience_details'> <AiOutlineCheckCircle/>
+            <h4>GraphQL/Apollo Server</h4>
+            </article>
+            
             
                 </div>
             </div>
